@@ -16,7 +16,7 @@
     .container {
       width: 800px;
       margin: 40px auto;
-      background-color: black;
+      background-color: white;
       box-shadow: 0 0 10px rgba(0,0,0,0.15);
       padding: 40px;
       border-radius: 10px;
@@ -64,7 +64,7 @@
 
     .section-content {
       background-color: #6aa6d8;
-      color: white;
+      color: black;
       padding: 25px 20px;
       border-radius: 0 0 6px 6px;
       line-height: 1.7;

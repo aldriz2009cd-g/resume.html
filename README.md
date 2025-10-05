@@ -84,7 +84,6 @@
           <!--Career Obj-->
           <h2>Career Objective</h2>
           <div class="section">
-      <div class="section-title">Career Objective</div>
       <div class="section-content">
         Creative and results-driven marketing professional with a strong foundation in digital
         marketing and social media management. Seeking to contribute to a dynamic marketing
@@ -97,7 +96,6 @@
      <!-- Work Experience -->
       <h2>Work Experience <br> Marketing Assistant</h2>
      <div class="section">
-      <div class="section-title">Work Experience <br> Marketing Assistant</div>
       <div class="section-content">
    <h4><b>Rey's Snack N' Eat- Quezon City, Philippines</b></h4 
        <p><b>June 2022 - November 2023</b></p>
@@ -115,7 +113,7 @@
       </div>
 
 
-<div class="container">
+
     
     <h2>Education</h2>
     <div class="section-content">

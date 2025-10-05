@@ -4,21 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume</title>
-<style>
- body {
+  <style>
+    body {
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
       margin: 0;
       padding: 0;
       color: #222;
-    }
-
-.header {
-      display: flex;
-      align-items: center;
-      border-bottom: 3px solid #0077b6;
-      padding-bottom: 15px;
-      margin-bottom: 20px;
     }
 
     .container {
@@ -28,6 +20,35 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.15);
       padding: 40px;
       border-radius: 10px;
+    }
+
+    /* Header section */
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    .header img {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #1b4d89;
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: 28px;
+      color: #1b4d89;
+    }
+
+    .contact p {
+      margin: 5px 0 0;
+      color: #0096C7;
+      font-size: 14px;
+      line-height: 1.5;
     }
 
     h2 {
@@ -70,56 +91,47 @@
     li {
       margin-bottom: 8px;
     }
-
-
-    
-
-
-</style>
+  </style>
 </head>
 <body>
-      <!--Profile-->
-  <div class="header">
+  <div class="container">
+    <!-- Profile Header -->
+    <div class="header">
       <img src="your-photo.jpg" alt="Profile Photo">
       <div>
         <h1>Aldriz Joshuel De Guzman</h1>
         <div class="contact">
-         <p style="color: #0096C7;">Blk 19 Lot 3 Cattleya Street Parkdale Classic 1, Anabu 1-A, Imus Cavite
-          09084558864 | deguzman.aldriz2009@gmail.com</p> 
+          <p>Blk 19 Lot 3 Cattleya Street Parkdale Classic 1, Anabu 1-A, Imus Cavite<br>
+          09084558864 | deguzman.aldriz2009@gmail.com</p>
         </div>
-      </div>
-
-          <!--Career Obj-->
-          <h2>Career Objective</h2>
-          <div class="section">
-      <div class="section-content">
-        Creative and results-driven marketing professional with a strong foundation in digital
-        marketing and social media management. Seeking to contribute to a dynamic marketing
-        team where I can apply my skills in the workplace and further engage my drive to manage
-        sales and awareness.
       </div>
     </div>
 
+    <!-- Career Objective -->
+    <h2>Career Objective</h2>
+    <div class="section-content">
+      Creative and results-driven marketing professional with a strong foundation in digital
+      marketing and social media management. Seeking to contribute to a dynamic marketing
+      team where I can apply my skills in the workplace and further engage my drive to manage
+      sales and awareness.
+    </div>
 
-     <!-- Work Experience -->
-      <h2>Work Experience <br> Marketing Assistant</h2>
-     <div class="section">
-      <div class="section-content">
-   <h4><em>Rey's Snack N' Eat- Quezon City, Philippines</em></h4 
-       <p><b>June 2022 - November 2023</b></p>
-        <ul>
-          <li>Assisted in launching and planning of online marketing advertisements that boosted customer engagement by 7%.</li>
-          <li>Organized limited time offers and giveaways that boosted sales by 20%.</li>
-          <li>Managed the store's online platforms (Facebook, Instagram, Tiktok), increasing follower count by 45%.</li>
-          <li>Collaborated closely with the whole marketing team to coordinate promos and used engaging viral content on social media.</li>
-          <li>Partnered with food delivery riders to ensure smooth transaction and efficient coordination for bulk orders.</li>
-          <li>Reached out to a local food vlogger to review products, boosting store popularity and online availability.</li>
-        </ul>
+    <!-- Work Experience -->
+    <h2>Work Experience<br>Marketing Assistant</h2>
+    <div class="section-content">
+      <h4><em>Rey's Snack N' Eat - Quezon City, Philippines</em></h4>
+      <p><b>June 2022 - November 2023</b></p>
+      <ul>
+        <li>Assisted in launching and planning of online marketing advertisements that boosted customer engagement by 7%.</li>
+        <li>Organized limited time offers and giveaways that boosted sales by 20%.</li>
+        <li>Managed the store's online platforms (Facebook, Instagram, TikTok), increasing follower count by 45%.</li>
+        <li>Collaborated closely with the whole marketing team to coordinate promos and used engaging viral content on social media.</li>
+        <li>Partnered with food delivery riders to ensure smooth transaction and efficient coordination for bulk orders.</li>
+        <li>Reached out to a local food vlogger to review products, boosting store popularity and online availability.</li>
+      </ul>
+    </div>
 
-
-
-
-    
+    <!-- Education -->
     <h2>Education</h2>
     <div class="section-content">
       <div class="edu-item">
@@ -141,6 +153,7 @@
       </div>
     </div>
 
+    <!-- Skills -->
     <h2>Skills</h2>
     <div class="section-content">
       <ul>
@@ -148,7 +161,7 @@
         <li><strong>Visual Presentation</strong> - Can generate eye-catching, convincing visuals that interpret the real goal of a brand/product.</li>
         <li><strong>Targeted Marketing Analysis</strong> - Able to identify and investigate recurring issues and strengths of a brand/product, and how to improve them based on their status or condition.</li>
       </ul>
-    
     </div>
-    </body>
-    </html>
+  </div>
+</body>
+</html>

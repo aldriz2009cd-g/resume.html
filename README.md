@@ -107,10 +107,7 @@
           <li>Partnered with food delivery riders to ensure smooth transaction and efficient coordination for bulk orders.</li>
           <li>Reached out to a local food vlogger to review products, boosting store popularity and online availability.</li>
         </ul>
-      </div>
-    </div>
-    
-      </div>
+
 
 
 

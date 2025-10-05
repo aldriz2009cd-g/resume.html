@@ -141,9 +141,5 @@
         <li><strong>Targeted Marketing Analysis</strong> - Able to identify and investigate recurring issues and strengths of a brand/product, and how to improve them based on their status or condition.</li>
       </ul>
     </div>
-
-  </div>
-
-      
-</body>
-</html>
+    </body>
+    </html>

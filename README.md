@@ -13,6 +13,14 @@
       color: #222;
     }
 
+.header {
+      display: flex;
+      align-items: center;
+      border-bottom: 3px solid #0077b6;
+      padding-bottom: 15px;
+      margin-bottom: 20px;
+    }
+
     .container {
       width: 800px;
       margin: 40px auto;

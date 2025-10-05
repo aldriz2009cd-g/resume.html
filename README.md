@@ -97,7 +97,7 @@
       <h2>Work Experience <br> Marketing Assistant</h2>
      <div class="section">
       <div class="section-content">
-   <h4><b>Rey's Snack N' Eat- Quezon City, Philippines</b></h4 
+   <h4><em>Rey's Snack N' Eat- Quezon City, Philippines</em></h4 
        <p><b>June 2022 - November 2023</b></p>
         <ul>
           <li>Assisted in launching and planning of online marketing advertisements that boosted customer engagement by 7%.</li>
@@ -140,6 +140,7 @@
         <li><strong>Visual Presentation</strong> - Can generate eye-catching, convincing visuals that interpret the real goal of a brand/product.</li>
         <li><strong>Targeted Marketing Analysis</strong> - Able to identify and investigate recurring issues and strengths of a brand/product, and how to improve them based on their status or condition.</li>
       </ul>
+    
     </div>
     </body>
     </html>

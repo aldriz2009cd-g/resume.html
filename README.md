@@ -16,7 +16,7 @@
     .container {
       width: 800px;
       margin: 40px auto;
-      background-color: white;
+      background-color: black;
       box-shadow: 0 0 10px rgba(0,0,0,0.15);
       padding: 40px;
       border-radius: 10px;
